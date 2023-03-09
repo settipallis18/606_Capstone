@@ -2,7 +2,7 @@
 
 ## Introduction: 
 
-     - One of the most disastrous natural occurrences is an earthquake. After an earthquake, gathering information on building damage and other effects allows for efficient recovery. This research identifies cutting-edge data sources for estimating building damage and offers suggestions for more effective data collection. Depending on the questions that these data are to answer, different criteria must be taken into consideration while choosing a certain data source or data gathering method for seismic reconnaissance. Several data sources ought to support one another, confirm gathered data, or systematically assess the damage.  
+One of the most disastrous natural occurrences is an earthquake. After an earthquake, gathering information on building damage and other effects allows for efficient recovery. This research identifies cutting-edge data sources for estimating building damage and offers suggestions for more effective data collection. Depending on the questions that these data are to answer, different criteria must be taken into consideration while choosing a certain data source or data gathering method for seismic reconnaissance. Several data sources ought to support one another, confirm gathered data, or systematically assess the damage.  
 
 As evidenced by the recent rise in the number of crowdsourcing and SM platforms used to collect seismic reconnaissance data, this data source is likely to become more and more significant. Between 1902 and 2011, these occurrences were responsible for more than 23 million fatalities in addition to significant physical, social, economic, institutional, cultural, and environmental losses. Fieldwork or ground surveys, omnidirectional imaging (OD), terrestrial laser scanning (TLS), remote sensing (RS), crowdsourcing platforms, social media (SM), and closed-circuit television films are among the current data collection techniques that have been divided into seven categories (CCTV). In order to prepare statistics, calibrate and evaluate engineering models, and detect the design flaws that result in subpar structural performance, earthquake reconnaissance permits the collection of perishable data on building performance.  
 
@@ -17,4 +17,24 @@ Seismographs can record the movement of the free surface during the seismic peri
 
 Below are the data sources we used to collect information and obtained datasets about earthquakes. There are some government sites and organizational sites which are open and free to access. There are no restrictions imposed on these sites or datasets associated with them. 
 
-This is a government site (https://www.usgs.gov/programs/earthquake-hazards) that monitors and reports earthquakes caused in the U.S. This is an activity taken by them as a part of the larger National Earthquake Hazards Reduction Program (NEHRP). This is a four-agency partnership established by congress.    
+This is a government site (https://www.usgs.gov/programs/earthquake-hazards) that monitors and reports earthquakes caused in the U.S. This is an activity taken by them as a part of the larger National Earthquake Hazards Reduction Program (NEHRP). This is a four-agency partnership established by congress. 
+
+## Resources:
+
+1) Earthquake Hazards | U.S. Geological Survey. (2023, March 7),  accessed March 09, 2023, <https://www.usgs.gov/programs/earthquake-hazards> 
+
+2) USGS.gov | Science for a changing world. (n.d.).   https://www.usgs.gov/  
+
+3) World Earthquake Data From 1906-2022. (2023, February 27), Kaggle, accessed March 09, 2023,<https://www.kaggle.com/datasets/garrickhague/world-earthquake-data-from-1906-2022?resource=download> 
+
+4) Stanford EArthquake Dataset (STEAD): A Global Data Set of Seismic Signals for AI. (2019). IEEE Journals & Magazine | IEEE Xplore, accessed March 09, 2023,<https://ieeexplore.ieee.org/abstract/document/8871127> 
+
+5) Global catalog of earthquakes  - Humanitarian Data Exchange. (n.d.), accessed March 09, 2023,<https://data.humdata.org/dataset/catalog-of-earthquakes1970-20145>. 
+
+6) Open data soft - Significant Earthquake Database,  accessed March 09, 2023 <https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/table/> 
+
+7) Contreras, D., Wilkinson, S., & James, P. (2021). Earthquake Reconnaissance Data Sources, a Literature Review. Earth, 2(4), 1006–103, accessed March 09, 2023  <https://doi.org/10.3390/earth2040060> 
+
+8) Pankaj C, Tulika C, Papiya D, Amit Gupta, Prasun C, S. Phani, Martin M, Ahmed A.,  Research Square, Experimental analysis of Earthquake Prediction using machine learning classifiers, curve fitting, and neural modeling, (2022 September 01), Accessed March 09, 2023, <https://assets.researchsquare.com/files/rs-1896823/v2/b190f239-8da8-4078-8cb5-0f18c2e17d0a.pdf?c=1663935282> 
+
+ 
