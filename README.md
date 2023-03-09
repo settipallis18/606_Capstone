@@ -1,4 +1,4 @@
-# 606_Capstone
+# Predicting Earthquakes Using ML
 
 ## Introduction: 
 
